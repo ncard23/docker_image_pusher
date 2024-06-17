@@ -1,2 +1,3 @@
 easysoft/zentao
 redis/redis-stack
+cimg/php:8.0
