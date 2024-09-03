@@ -1,5 +1,7 @@
 easysoft/zentao
 redis/redis-stack
 cimg/php:8.0
+cimg/php:8.3
+cimg/php:7.4
 hub.zentao.net/app/zentao:latest
 jenkinsciinfra/openvpn
