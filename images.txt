@@ -5,7 +5,5 @@ redis/redis-stack
 cimg/php:8.3
 cimg/php:7.4
 cimg/node:10.15.3
-hub.zentao.net/app/zentao:latest
 jenkinsciinfra/openvpn
 nginx:latest
-bingozhou/mysql5.7
