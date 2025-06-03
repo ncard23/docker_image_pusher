@@ -3,3 +3,6 @@ cimg/php:8.3
 cimg/php:7.4
 hub.zentao.net/app/zentao:latest
 jenkinsciinfra/openvpn
+nginx:latest
+oilrmutp57/mysql5.7
+cimg/node:10.15.3
