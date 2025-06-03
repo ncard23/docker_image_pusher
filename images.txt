@@ -1,8 +1,8 @@
-#redis/redis-stack
-#cimg/php:8.3
-#cimg/php:7.4
-#hub.zentao.net/app/zentao:latest
-#jenkinsciinfra/openvpn
-#nginx:latest
+redis/redis-stack
+cimg/php:8.3
+cimg/php:7.4
+hub.zentao.net/app/zentao:latest
+jenkinsciinfra/openvpn
+nginx:latest
 cimg/node:10.15.3
 bingozhou/mysql5.7
