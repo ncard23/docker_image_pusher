@@ -1,3 +1,4 @@
+redis:latest
 redis/redis-stack
 cimg/php:8.3
 cimg/php:7.4
