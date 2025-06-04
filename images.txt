@@ -1,1 +1,10 @@
 bitnami/php-fpm:7.4.33-debian-11-r25
+cimg/redis:6.2.6
+cimg/mysql:8.0
+cimg/mysql:5.7
+cimg/php:8.3
+cimg/php:7.4
+cimg/node:10.15.3
+jenkinsciinfra/openvpn
+nginx:1.27.5
+redis/redis-stack
