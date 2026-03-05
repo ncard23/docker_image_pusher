@@ -1,7 +1,7 @@
 cimg/redis:6.2.6
 cimg/php:8.3
 cimg/php:7.4
-cimg/node:v23.3.0
+cimg/node:25.7.0
 jenkinsciinfra/openvpn
 nginx:1.27.5
 redis/redis-stack
